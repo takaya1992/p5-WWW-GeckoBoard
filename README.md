@@ -12,11 +12,11 @@ WWW::GeckoBoard is ...
 
 # LICENSE
 
-Copyright (C) Wataru Abe.
+Copyright (C) Takaya Arikawa.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 # AUTHOR
 
-Wataru Abe <wataru.abe@mixi.co.jp>
+Takaya Arikawa <tky.c10ver@gmail.com>
